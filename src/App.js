@@ -45,10 +45,10 @@ class App extends React.Component {
     return (
       <Router>
         <Container className="p-0" fluid={true}>
-
+ 
           <Navbar className="border-bottom" bg="transparent" expand="lg">
 
-            <Navbar.Brand>Mihaly Elod</Navbar.Brand>
+            <Navbar.Brand>Előd Mihály`s website</Navbar.Brand>
             <Navbar.Toggle aria-controls="navbar-toogle"/>
             <Navbar.Collapse id="navbar-toogle">
               <Nav className="ml-auto">
